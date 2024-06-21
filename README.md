@@ -30,5 +30,5 @@
 ![bash](https://img.shields.io/badge/-bash-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
 ## Devices in use
-[![Redmi Note 12 Turbo/Poco F5](https://img.shields.io/badge/-Poco%20F5-black?style=flat-square&logo=pocophone&logoColor=ffbb0f)](https://.po.co/global/product/poco-f5/)
+[![Redmi Note 12 Turbo/Poco F5](https://img.shields.io/badge/-Poco%20F5-black?style=flat-square&logo=xiaomi&logoColor=ffbb0f)](https://.po.co/global/product/poco-f5/)
 [![Xiaomi Pad 5 ](https://img.shields.io/badge/-Xiaomi%20Pad%205-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/uk/product/xiaomi-pad-5/)
