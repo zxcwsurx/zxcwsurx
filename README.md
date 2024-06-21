@@ -32,4 +32,4 @@
 ## Devices in use
 [![Redmi Note 12 Turbo/Poco F5](https://img.shields.io/badge/-POCO%20F5-black?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://.po.co/global/product/poco-f5/)
 [![Xiaomi Pad 5 ](https://img.shields.io/badge/-Xiaomi%20Pad%205-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/uk/product/xiaomi-pad-5/)
-[![~~Redmi Note 8 Pro~~](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
+[![ ~~Redmi Note 8 Pro~~ ](https://img.shields.io/badge/-Redmi%20Note%208%20Pro-orange?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/ru/redmi-note-8-pro/)
