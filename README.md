@@ -15,6 +15,8 @@
 ![CPU](https://img.shields.io/badge/INTEL-Core_i3–10100F-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 <br> 
 ![GPU](https://img.shields.io/badge/MSI-GeForce_Gtx_1660_SUPER_VENTUS_XS_OC-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
+<br>
+![OZU](https://img.shields.io/badge/RAM-16gb_ddr4-cba6f7?style=for-the-badge&logoColor=cdd6f4&labelColor=1e1e2e)
 
 
 ## Working environment
