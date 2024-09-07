@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxcwsurx&layout=compact&show_icons=true&theme=catppuccin_mocha&border_radius=12&hide_border=true">
 </div>
 
-- uk-UA / ru-RU / en-US /
+- uk-UA / en-US /
 - Ukraine, Lviv Oblast' / UTC+3
 - Coder / Developer
 
