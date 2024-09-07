@@ -21,7 +21,7 @@
 
 ## Working environment
 [![Android 14](https://img.shields.io/badge/Android%2014%20QPR3-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=arch&logoColor=ffffff)](https://ubuntu.com/desktop/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=archlinux&logoColor=ffffff)](https://ubuntu.com/desktop/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011%2022H2-3bb3eb?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/en-gb/windows/windows-11/)
 
 ## Programming Languages
