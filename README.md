@@ -5,7 +5,7 @@
 </div>
 
 - uk-UA / en-US /
-- Ukraine, Lviv Oblast' / UTC+3
+- Ukraine / UTC+3
 - Coder / Developer
 
 
