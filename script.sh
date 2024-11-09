@@ -17,7 +17,7 @@ echo "========================================================================"
 
 
 # Repo Init
-repo init -u https://github.com/crdroidandroid/android.git -b 14.0 --git-lfs--depth=1
+repo init -u https://github.com/crdroidandroid/android.git -b 14.0 --git-lfs --depth=1
 
 echo "========================================================================"
 echo "REPO INITIALIZED"
