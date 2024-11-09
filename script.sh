@@ -24,38 +24,33 @@ echo "REPO INITIALIZED"
 echo "========================================================================"
 
 
+# Resync
+
+echo "========================================================================"
+echo "SYNCING"
+echo "========================================================================"
+
+repo sync -j$(nproc --all)
+
+echo "========================================================================"
+echo "SYNCED"
+echo "========================================================================"
+
+
+
+echo "========================================================================"
+echo "CLONING REPOS"
+echo "========================================================================"
+
 # Clone local_manifests repository
 git clone https://github.com/zxcwsurx/android_device_xiaomi_nabu device/xiaomi/nabu
 git clone https://github.com/Dark-Matter7232/kernel_msm-4.14-nabu kernel/xiaomi/nabu
 git clone https://github.com/zxcwsurx/android_vendor_xiaomi_nabu vendor/xiaomi/nabu
 git clone https://github.com/zxcwsurx/android_device_xiaomi_sm8150-common device/xiaomi/sm8150-common
 git clone https://github.com/xiaomi-sm8150-devs/proprietary_vendor_xiaomi_sm8150-common vendor/xiaomi/sm8150-common
-
-echo "========================================================================"
-echo "CLONED REPOS"
-echo "========================================================================"
-
-
-# Resync
-
-/opt/crave/resync.sh
-
-echo "========================================================================"
-echo "RESYNCED"
-echo "========================================================================"
-
-
-# Upgrade System
-
-sudo apt update && sudo apt upgrade -y
-
-echo "========================================================================"
-echo "SYSTEM UPGRADED"
-echo "========================================================================"
-
-
 rm -rf packages/apps/Settings
 git clone -b 14.0 https://github.com/zxcwsurx/android_packages_apps_Settings/
+
 
 echo "========================================================================"
 echo "BUILDING........."
